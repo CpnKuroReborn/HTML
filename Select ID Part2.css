@@ -1,0 +1,9 @@
+h1 {
+  color:red;
+  background-color: blue;
+}
+
+/*Sylize an element with a specific ID*/
+#mainPar {
+  color: green;
+}
